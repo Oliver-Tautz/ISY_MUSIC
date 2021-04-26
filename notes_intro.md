@@ -24,3 +24,9 @@
 
 * <https://openai.com/blog/sparse-transformer/>
 * Sparse transformer <https://arxiv.org/abs/1904.10509> ; Code: <https://arxiv.org/abs/1904.10509>
+* <https://magenta.tensorflow.org/music-transformer>
+* <https://openai.com/blog/better-language-models/>
+
+## Jukebox
+
+* seems fun :)
