@@ -1,6 +1,32 @@
 *** WORK LOG otautz ***
-|-------+-------+------------------------------------------------------   |
-| Total | Hours | Activity                                                |
-|-------+-------+------------------------------------------------------   |
-* Week 16 (calendar-week)                                                 |
-|     1 |     1 | Meeting                                                 |
+|-------+-------+------------------------------------------------------      |
+| Total | Hours | Activity                                                   |
+|-------+-------+------------------------------------------------------      |
+* Week 16 (calendar-week)                                                    |
+|     1 |     1 | Meeting                                                    |
+|     3 |     2 | Studying Article and papers 'transcription'[1][2][3][4][5] |
+|     5 |     2 | Studying MuseNet and Jukebox                               |
+|     7 |     2 | Prepare info for meeting                                   |
+|   7.5 |    0.5| video                                                      |
+|   11.5|     4 | Make the Code run  [7][8]. Print out shapes etc.           |
+|                 Understand RNN[9] and LSTM [10]
+
+[1] https://towardsdatascience.com/i-built-a-music-sheet-transcriber-heres-how-74708fe7c04c
+[2] End-to-End Neural Optical Music Recognition of Monophonic Scores https://www.mdpi.com/2076-3417/8/4/606
+[3] CTC-loss paper https://mediatum.ub.tum.de/doc/1292048/file.pdf
+[4] Code https://github.com/OMR-Research/tf-end-to-end
+[5] "Artificial Semantic" Augmentation https://arxiv.org/pdf/1712.03228.pdf
+
+Tensorflow 1 is needed! Also use python <=3.7
+[7] https://github.com/Oliver-Tautz/web-omr
+[8] https://github.com/Oliver-Tautz/tf-end-to-end
+
+[9] https://www.youtube.com/watch?v=yZv_yRgOvMg&t=349s
+[10] https://www.youtube.com/watch?v=QciIcRxJvsM
+
+notes: https://github.com/Oliver-Tautz/ISY_MUSIC/blob/b93a543ddf1dd345b2753fd5e746af54d599452d/notes_intro.md
+ 
+
+Other papers :
+[5]Convolutional Recurrent Neural Networks for Music Classification  https://arxiv.org/abs/1609.04243
+[6]An End-to-End Neural Network for Polyphonic Piano Music Transcription  https://arxiv.org/abs/1508.01774
