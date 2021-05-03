@@ -14,7 +14,7 @@
 * Semantic Vocab size = 1782
 
 
-Word - >    number -> (000...1...0)  ->        (0.3 0.1 0.7 ...)        ->       ->                -> (000...1...000)
+```Word - >    number -> (000...1...0)  ->        (0.3 0.1 0.7 ...)        ->       ->                -> (000...1...000)
 
 
-                      (vocab_size,)  ->        (?,) latent encoding     -> RNN   -> softmax+argmax?-> output
+                      (vocab_size,)  ->        (?,) latent encoding     -> RNN   -> softmax+argmax?-> output```
