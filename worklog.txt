@@ -8,8 +8,14 @@
 |     5 |     2 | Studying MuseNet and Jukebox                               |
 |     7 |     2 | Prepare info for meeting                                   |
 |   7.5 |    0.5| video                                                      |
+* Week 18 (calendar-week)                                                    |
 |   11.5|     4 | Make the Code run  [7][8]. Print out shapes etc.           |
-|                 Understand RNN[9] and LSTM [10]
+|                 Understand RNN[9] and LSTM [10]                            |
+| 13.5  |   2   | meeting                                                    |
+| 15.5  |   2   | read article. fork repo. read code [11]                    |
+| 17.5  |   2   | meeting, making the Code run.                              |
+* Week 19 (calendar-week)                                                    |
+| 17.5  |   3   | Found pytorch implementation. Make it run ![12]            |
 
 [1] https://towardsdatascience.com/i-built-a-music-sheet-transcriber-heres-how-74708fe7c04c
 [2] End-to-End Neural Optical Music Recognition of Monophonic Scores https://www.mdpi.com/2076-3417/8/4/606
@@ -24,8 +30,16 @@ Tensorflow 1 is needed! Also use python <=3.7
 [9] https://www.youtube.com/watch?v=yZv_yRgOvMg&t=349s
 [10] https://www.youtube.com/watch?v=QciIcRxJvsM
 
+[11] 
+params            : https://github.com/Oliver-Tautz/magenta/blob/102cbdedb1002c8ca21f4d546a854819fd72ca70/magenta/models/onsets_frames_transcription/model.py#L431
+train_loop?       : https://github.com/Oliver-Tautz/magenta/blob/102cbdedb1002c8ca21f4d546a854819fd72ca70/magenta/models/onsets_frames_transcription/train_util.py#L124
+model_definition? : https://github.com/Oliver-Tautz/magenta/blob/102cbdedb1002c8ca21f4d546a854819fd72ca70/magenta/models/onsets_frames_transcription/model.py#L128
+
+[12]
+https://github.com/Oliver-Tautz/onsets-and-frames
+
 notes: https://github.com/Oliver-Tautz/ISY_MUSIC/blob/b93a543ddf1dd345b2753fd5e746af54d599452d/notes_intro.md
- 
+transciber_notes: https://github.com/Oliver-Tautz/ISY_MUSIC/blob/main/logs/Music_transcriber.md 
 
 Other papers :
 [5]Convolutional Recurrent Neural Networks for Music Classification  https://arxiv.org/abs/1609.04243
