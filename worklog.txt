@@ -16,6 +16,8 @@
 | 17.5  |   2   | meeting, making the Code run.                              |
 * Week 19 (calendar-week)                                                    |
 | 17.5  |   3   | Found pytorch implementation. Make it run ![12]            |
+| 19    |   1.5 | meeting                                                    |
+| 21    |   2   | run onsets_and_frames; make drawings [13][14]              |
 
 [1] https://towardsdatascience.com/i-built-a-music-sheet-transcriber-heres-how-74708fe7c04c
 [2] End-to-End Neural Optical Music Recognition of Monophonic Scores https://www.mdpi.com/2076-3417/8/4/606
@@ -40,6 +42,10 @@ https://github.com/Oliver-Tautz/onsets-and-frames
 
 notes: https://github.com/Oliver-Tautz/ISY_MUSIC/blob/b93a543ddf1dd345b2753fd5e746af54d599452d/notes_intro.md
 transciber_notes: https://github.com/Oliver-Tautz/ISY_MUSIC/blob/main/logs/Music_transcriber.md 
+
+[13] https://github.com/Oliver-Tautz/ISY_MUSIC/blob/main/onsets_and_frames_convstack.pdf
+[14] https://github.com/Oliver-Tautz/ISY_MUSIC/blob/main/onsets_and_frames_overview.pdf
+
 
 Other papers :
 [5]Convolutional Recurrent Neural Networks for Music Classification  https://arxiv.org/abs/1609.04243
