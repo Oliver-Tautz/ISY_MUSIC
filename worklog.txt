@@ -19,7 +19,7 @@
 | 19    |   1.5 | meeting                                                    |
 | 21    |   2   | run onsets_and_frames; make drawings [13][14]              |
 | 23    |   2   | read papers [15][16][17] Model implementation:[18]         |
-
+|                 Paper summary [19]                                         |
 
 [1] https://towardsdatascience.com/i-built-a-music-sheet-transcriber-heres-how-74708fe7c04c
 [2] End-to-End Neural Optical Music Recognition of Monophonic Scores https://www.mdpi.com/2076-3417/8/4/606
@@ -27,12 +27,14 @@
 [4] Code https://github.com/OMR-Research/tf-end-to-end
 [5] "Artificial Semantic" Augmentation https://arxiv.org/pdf/1712.03228.pdf
 
+
+endToEnd transcriber:
+
 Tensorflow 1 is needed! Also use python <=3.7
 [7] https://github.com/Oliver-Tautz/web-omr
 [8] https://github.com/Oliver-Tautz/tf-end-to-end
 
-[9] https://www.youtube.com/watch?v=yZv_yRgOvMg&t=349s
-[10] https://www.youtube.com/watch?v=QciIcRxJvsM
+magenta onset and frames:
 
 [11] 
 params            : https://github.com/Oliver-Tautz/magenta/blob/102cbdedb1002c8ca21f4d546a854819fd72ca70/magenta/models/onsets_frames_transcription/model.py#L431
@@ -42,17 +44,27 @@ model_definition? : https://github.com/Oliver-Tautz/magenta/blob/102cbdedb1002c8
 [12]
 https://github.com/Oliver-Tautz/onsets-and-frames
 
-notes: https://github.com/Oliver-Tautz/ISY_MUSIC/blob/b93a543ddf1dd345b2753fd5e746af54d599452d/notes_intro.md
-transciber_notes: https://github.com/Oliver-Tautz/ISY_MUSIC/blob/main/logs/Music_transcriber.md 
-
 [13] https://github.com/Oliver-Tautz/ISY_MUSIC/blob/main/onsets_and_frames_convstack.pdf
 [14] https://github.com/Oliver-Tautz/ISY_MUSIC/blob/main/onsets_and_frames_overview.pdf
+
+
+
+Music-Demixing-Challenge:
 
 [15] X-UMX paper: https://arxiv.org/pdf/2010.04228                                     Code: https://github.com/asteroid-team/asteroid/tree/master/egs/musdb18/X-UMX
 [16]   UMX paper: https://www.theoj.org/joss-papers/joss.01667/10.21105.joss.01667.pdf Code: https://github.com/sigsep/open-unmix-pytorch
 [17]   UMX architecture: https://sci-hub.do/10.1109/ICASSP.2017.7952158
 [18]   XUMX model: https://github.com/asteroid-team/asteroid/blob/master/asteroid/models/x_umx.py
+[19]   XUMX paper summary:https://github.com/Oliver-Tautz/ISY_MUSIC/edit/main/X-UMX.md
+
 
 Other papers :
 [5]Convolutional Recurrent Neural Networks for Music Classification  https://arxiv.org/abs/1609.04243
 [6]An End-to-End Neural Network for Polyphonic Piano Music Transcription  https://arxiv.org/abs/1508.01774
+[9] https://www.youtube.com/watch?v=yZv_yRgOvMg&t=349s
+[10] https://www.youtube.com/watch?v=QciIcRxJvsM
+
+notes: https://github.com/Oliver-Tautz/ISY_MUSIC/blob/b93a543ddf1dd345b2753fd5e746af54d599452d/notes_intro.md
+transciber_notes: https://github.com/Oliver-Tautz/ISY_MUSIC/blob/main/logs/Music_transcriber.md 
+
+
