@@ -2,6 +2,7 @@
 
 
 * Same basic architecture as UMX 
+* [pic](UMX.png)
 * FNN + BLSTM  + FNN per source.
 * In front/after BLSTM Average input/output
 * 
