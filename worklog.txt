@@ -18,7 +18,7 @@
 | 17.5  |   3   | Found pytorch implementation. Make it run ![12]            |
 | 19    |   1.5 | meeting                                                    |
 | 21    |   2   | run onsets_and_frames; make drawings [13][14]              |
-| 23    |   2   | read papers [15][16][17]                                   |
+| 23    |   2   | read papers [15][16][17] Model implementation:[18]         |
 
 
 [1] https://towardsdatascience.com/i-built-a-music-sheet-transcriber-heres-how-74708fe7c04c
@@ -51,7 +51,7 @@ transciber_notes: https://github.com/Oliver-Tautz/ISY_MUSIC/blob/main/logs/Music
 [15] X-UMX paper: https://arxiv.org/pdf/2010.04228                                     Code: https://github.com/asteroid-team/asteroid/tree/master/egs/musdb18/X-UMX
 [16]   UMX paper: https://www.theoj.org/joss-papers/joss.01667/10.21105.joss.01667.pdf Code: https://github.com/sigsep/open-unmix-pytorch
 [17]   UMX architecture: https://sci-hub.do/10.1109/ICASSP.2017.7952158
-
+[18]   XUMX model: https://github.com/asteroid-team/asteroid/blob/master/asteroid/models/x_umx.py
 
 Other papers :
 [5]Convolutional Recurrent Neural Networks for Music Classification  https://arxiv.org/abs/1609.04243
