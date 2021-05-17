@@ -20,6 +20,10 @@
 | 21    |   2   | run onsets_and_frames; make drawings [13][14]              |
 | 23    |   2   | read papers [15][16][17] Model implementation:[18]         |
 |                 Paper summary [19]                                         |
+* Week 19 (calendar-week)                                                    |
+| 25    |   2   | Setup challange github. Try out predictors.                |
+|                 Try to train xumx myself.                                  |
+
 
 [1] https://towardsdatascience.com/i-built-a-music-sheet-transcriber-heres-how-74708fe7c04c
 [2] End-to-End Neural Optical Music Recognition of Monophonic Scores https://www.mdpi.com/2076-3417/8/4/606
