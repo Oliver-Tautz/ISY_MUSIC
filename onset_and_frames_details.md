@@ -37,5 +37,6 @@ I cant find the states resetting. Two hypothesis:
 * No reset. (highly unlikely)
 * Reset after each batch. Some magic inside nn.Sequential?!
 
+*LSTM has 768 timesteps with 384 dimensional hidden state. This can be adjusted in model creation
 
 
