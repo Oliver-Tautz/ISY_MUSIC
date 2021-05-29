@@ -28,7 +28,13 @@
 | 27    |   2   | Understand ft. Understand onset_and_frames [20]            |
 | 30    |   3   | Try to train  umx. Works locally but not on citec          |
 | 30    |   3   | Make dataset available to wadhah [21]                      |
-
+* Week 19 (calendar-week)                                                    |
+| 26.5  |   1   | Meeting                                                    |
+| 28.5  |   2   | Training own umx on citec. works now, but is crazy slow    |
+| 30    |   1.5 | Debug git for submission. Works now :)                     |
+| 31    |   1   | get umx prediction. Needs lots of ram! ;(                  |
+| 32.5  |   1.5 | compute sdr scores for ground truth pred     [22]          |
+| 34    |   1.5 | compute scores for low-pass-filter for bass. [23]          |
 
 [1] https://towardsdatascience.com/i-built-a-music-sheet-transcriber-heres-how-74708fe7c04c
 [2] End-to-End Neural Optical Music Recognition of Monophonic Scores https://www.mdpi.com/2076-3417/8/4/606
@@ -82,4 +88,7 @@ Other papers :
 notes: https://github.com/Oliver-Tautz/ISY_MUSIC/blob/b93a543ddf1dd345b2753fd5e746af54d599452d/notes_intro.md
 transciber_notes: https://github.com/Oliver-Tautz/ISY_MUSIC/blob/main/logs/Music_transcriber.md 
 
+[22]https://github.com/Oliver-Tautz/ISY_MUSIC/tree/main/unmix_challenge_groundtruth_replacement_scores
 
+[23] https://github.com/Oliver-Tautz/ISY_MUSIC/blob/main/unmix_challenge_groundtruth_replacement_scores/final_scores_umx.ods%7C
+     https://github.com/Oliver-Tautz/ISY_MUSIC/blob/main/unmix_challenge_groundtruth_replacement_scores/final_scores_scaled_mixture.ods
