@@ -8,33 +8,36 @@
 |     5 |     2 | Studying MuseNet and Jukebox                               |
 |     7 |     2 | Prepare info for meeting                                   |
 |   7.5 |    0.5| video                                                      |
-* Week 18 (calendar-week)                                                    |
+* Week 17 (calendar-week)                                                    |
 |   11.5|     4 | Make the Code run  [7][8]. Print out shapes etc.           |
 |                 Understand RNN[9] and LSTM [10]                            |
 | 13.5  |   2   | meeting                                                    |
 | 15.5  |   2   | read article. fork repo. read code [11]                    |
 | 17.5  |   2   | meeting, making the Code run.                              |
-* Week 19 (calendar-week)                                                    |
+* Week 18 (calendar-week)                                                    |
 | 17.5  |   3   | Found pytorch implementation. Make it run ![12]            |
 | 19    |   1.5 | meeting                                                    |
 | 21    |   2   | run onsets_and_frames; make drawings [13][14]              |
 | 23    |   2   | read papers [15][16][17] Model implementation:[18]         |
 |                 Paper summary [19]                                         |
-* Week 19 (calendar-week)                                                    |
+* Week 29 (calendar-week)                                                    |
 | 25    |   2   | Setup challange github. Try out predictors.                |
 |                 Try to train xumx myself.                                  |
-* Week 19 (calendar-week)                                                    |
+* Week 20 (calendar-week)                                                    |
 | 26.5  |   1.5 | Meeting                                                    |
 | 27    |   2   | Understand ft. Understand onset_and_frames [20]            |
 | 30    |   3   | Try to train  umx. Works locally but not on citec          |
 | 30    |   3   | Make dataset available to wadhah [21]                      |
-* Week 19 (calendar-week)                                                    |
+* Week 21 (calendar-week)                                                    |
 | 26.5  |   1   | Meeting                                                    |
 | 28.5  |   2   | Training own umx on citec. works now, but is crazy slow    |
 | 30    |   1.5 | Debug git for submission. Works now :)                     |
 | 31    |   1   | get umx prediction. Needs lots of ram! ;(                  |
 | 32.5  |   1.5 | compute sdr scores for ground truth pred     [22]          |
 | 34    |   1.5 | compute scores for low-pass-filter for bass. [23]          |
+| 35.5  |   1.5 | meeting                                                    |
+| 37.5  |   2   | discussion with wadha                                      |
+
 
 [1] https://towardsdatascience.com/i-built-a-music-sheet-transcriber-heres-how-74708fe7c04c
 [2] End-to-End Neural Optical Music Recognition of Monophonic Scores https://www.mdpi.com/2076-3417/8/4/606
