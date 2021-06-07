@@ -1,3 +1,5 @@
+import os.path
+
 from scipy.io.wavfile import read as wav_read
 from scipy.io.wavfile import write as wav_write
 import scipy.signal
@@ -10,7 +12,7 @@ import numpy as np
 
 
 if 'TMPDIR' in environ.keys():
-    tmpdir=envorin['TMPDIR']
+    tmpdir=environ['TMPDIR']
 else:
     tmpdir='/tmp'
 
@@ -82,16 +84,22 @@ def spectrograms(filename,seconds=1,channels=[0,1],samplerate_new=None):
     
 
 #saves plot of spec=(f,t,sXX) to filename
-def plot_spectrogram(spec,filename):
-    f,t,spec = spec
-    plt.pcolormesh(t,f,spec)
-    plt.savefig(filename,dpi=600)
+def plot_spectrogram(spec_file,save_filename):
+   # f,t,spec = spec
+    #plt.pcolormesh(t,f,spec)
+    print(spec_file)
+    samplerate, samples = wav_read(spec_file)
+    print(samples[:,0].shape)
+    print(samplerate)
+    plt.specgram(x=samples[:,0],Fs=samplerate)
+    plt.savefig(save_filename,dpi=600)
     plt.clf()
 
 
 
 #makes timecorret video of audiofile        
 def make_video(filename,channel=0,timestep_in_seconds=5):
+
 
     filename_without_extension = filename.split('.')[0]
 
@@ -112,20 +120,21 @@ def make_video(filename,channel=0,timestep_in_seconds=5):
     # plot images
     for i,spec in tqdm(enumerate(sps),desc='plotting',total=len(sps)):
         savename = f"{generic_png_savename}_{str(i).zfill(3)}.png"
-        plot_spectrogram(spec,savename)
+        plot_spectrogram(filename,savename)
         
     # use ffmpeg to make video
-
     run(['ffmpeg',
         '-framerate', f'1/{timestep_in_seconds}',
         '-i',f'{generic_png_savename}_%03d.png',
         '-i',filename,
         videoname])
 
-    
 
 
 
+path_str ='/data_ssd/music-demixing-challenge-starter-kit/small_data/test'
 
-
-
+for song_dir in os.listdir(path_str):
+    for filename in (['bass.wav','drums.wav','mixture.wav','other.wav','vocals.wav']):
+        print(filename)
+        make_video(os.path.join(path_str,song_dir,filename))

@@ -35,10 +35,14 @@
 | 31    |   1   | get umx prediction. Needs lots of ram! ;(                  |
 | 32.5  |   1.5 | compute sdr scores for ground truth pred     [22]          |
 | 34    |   1.5 | compute scores for low-pass-filter for bass. [23]          |
+* Week 22 (calendar-week)                                                    |
 | 35.5  |   1.5 | meeting                                                    |
 | 37.5  |   2   | discussion with wadha                                      |
 | 38.5  |    1  | meeting                                                    |
 | 42.5  |   4   | make 'music visualizer'.                                   | 
+* Week 23 (calendar-week)                                                    |
+| 43    |   0.5 | help with citec cluster                                    |
+| 44    |   1   | finalize visualizer                                        |
 
 [1] https://towardsdatascience.com/i-built-a-music-sheet-transcriber-heres-how-74708fe7c04c
 [2] End-to-End Neural Optical Music Recognition of Monophonic Scores https://www.mdpi.com/2076-3417/8/4/606
