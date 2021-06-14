@@ -43,6 +43,9 @@
 * Week 23 (calendar-week)                                                    |
 | 43    |   0.5 | help with citec cluster                                    |
 | 44    |   1   | finalize visualizer                                        |
+| 45    |   1   | meeting                                                    |
+| 48    |   3   | play with umap on song                                     |   
+* Week 24 (calendar-week)                                                    |
 
 [1] https://towardsdatascience.com/i-built-a-music-sheet-transcriber-heres-how-74708fe7c04c
 [2] End-to-End Neural Optical Music Recognition of Monophonic Scores https://www.mdpi.com/2076-3417/8/4/606
