@@ -4,7 +4,7 @@
 ![](architecture.png "Architecture")
 
 * works in sequence domain
-* basic autoencoder with lstm ? basically yes but actually no
+* basic autoencoder with lstm ? almost, yes but actually no
 * used 1d convolution  
 * adapts speech source seperation model
 * works on both channels simultaneously ?!
