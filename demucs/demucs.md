@@ -9,6 +9,7 @@
 * adapts speech source seperation model
 * works on both channels simultaneously ?!
 * uses both, LSTM and GLU
+* I think one model per source!
 
 ![](comparison_metrics.png "Comparison")
 
@@ -44,6 +45,9 @@ tions (although the Conv-Tasnet architecture does not seem to benefit from it), 
 for long range dependencies, and powerful encoding and decoding layers with 1x1 convolutions and
 GLU activations."
 
+
+* "The Demucs models are trained with 8 V100 GPUs with
+16GB of RAM, while the Conv-Tasnet models were trained with 16 V100 with 32GB of RAM."
 
 ## Links
 
