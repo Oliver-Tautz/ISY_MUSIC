@@ -46,6 +46,14 @@
 | 45    |   1   | meeting                                                    |
 | 48    |   3   | play with umap on song                                     |   
 * Week 24 (calendar-week)                                                    |
+| 49    |   1   | meeting                                                    |
+| 50    |   1   | meeting                                                    |
+* Week 25 (calendar-week)                                                    |
+| 51    |   1   | meeting                                                    |
+| 53    |   2   | prepare demucs discussion                                  |
+| 55    |   2   | prepare compound word transfoprmer discussion              |
+
+
 
 [1] https://towardsdatascience.com/i-built-a-music-sheet-transcriber-heres-how-74708fe7c04c
 [2] End-to-End Neural Optical Music Recognition of Monophonic Scores https://www.mdpi.com/2076-3417/8/4/606
