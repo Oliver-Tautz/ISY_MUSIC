@@ -52,8 +52,11 @@
 | 51    |   1   | meeting                                                    |
 | 53    |   2   | prepare demucs discussion                                  |
 | 55    |   2   | prepare compound word transfoprmer discussion              |
-
-
+* Week 26 (calendar-week)                                                    |
+| 56    |   1   | meeting                                                    |
+| 59    |   3   | get demucs running                                         |
+| 58    |   1   | understand forward step                                    |
+| 60    |   2   | make drawing and understand better                         |
 
 [1] https://towardsdatascience.com/i-built-a-music-sheet-transcriber-heres-how-74708fe7c04c
 [2] End-to-End Neural Optical Music Recognition of Monophonic Scores https://www.mdpi.com/2076-3417/8/4/606
