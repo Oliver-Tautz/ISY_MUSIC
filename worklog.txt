@@ -57,6 +57,10 @@
 | 59    |   3   | get demucs running                                         |
 | 58    |   1   | understand forward step                                    |
 | 60    |   2   | make drawing and understand better                         |
+* Week 27 (calendar-week)                                                    |
+| 63    |   3   | make submission                                            |
+| 66    |   3   | compute loss and make visuals                              |
+
 
 [1] https://towardsdatascience.com/i-built-a-music-sheet-transcriber-heres-how-74708fe7c04c
 [2] End-to-End Neural Optical Music Recognition of Monophonic Scores https://www.mdpi.com/2076-3417/8/4/606
