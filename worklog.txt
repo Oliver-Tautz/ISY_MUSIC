@@ -58,9 +58,15 @@
 | 58    |   1   | understand forward step                                    |
 | 60    |   2   | make drawing and understand better                         |
 * Week 27 (calendar-week)                                                    |
+| 56    |   1   | meeting                                                    |
 | 63    |   3   | make submission                                            |
 | 66    |   3   | compute loss and make visuals                              |
-
+* Week 28 (calendar-week)                                                    |
+| 67    |   1   | meeting                                                    |
+| 70    |   3   | make new visuals                                           |
+| 73    |   3   | analyze dataset                                            |
+| 75    |   2   | feature engeneering and debug                              |
+| 78    |   3   | debug and upload                                           |
 
 [1] https://towardsdatascience.com/i-built-a-music-sheet-transcriber-heres-how-74708fe7c04c
 [2] End-to-End Neural Optical Music Recognition of Monophonic Scores https://www.mdpi.com/2076-3417/8/4/606
