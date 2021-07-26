@@ -72,7 +72,7 @@
 | 83    |   4   | make and debug double predict wrapper                      |
 | 85    |   2   | debug submission                                           |
 | 87    |   2   | look into demucs denoiser model                            |
-| 90    |   3   | make demucs run un slurm                                   |
+| 90    |   3   | make demucs training run on slurm                          |
 | 91    |   1   | debug submission again                                     |
 
 
