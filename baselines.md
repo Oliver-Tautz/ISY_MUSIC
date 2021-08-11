@@ -4,10 +4,10 @@ Great source i found: [source-seperation-tutorial](https://source-separation.git
 
 ## Paper Links
 
-* UMX/UMXL	[paper](https://paperswithcode.com/paper/open-unmix-a-reference-implementation-for) [github](https://github.com/sigsep/open-unmix-pytorch)
-* XUMX 		[paper](https://arxiv.org/abs/2010.04228) [github](https://github.com/asteroid-team/asteroid/tree/master/egs/musdb18/X-UMX)
-* Demucs 	[paper](https://hal.archives-ouvertes.fr/hal-02379796/document) [github](https://github.com/facebookresearch/demucs)
-* Spleeter 	[paper](http://archives.ismir.net/ismir2019/latebreaking/000036.pdf) [github](https://github.com/deezer/spleeter) [blog](https://deezer.io/releasing-spleeter-deezer-r-d-source-separation-engine-2b88985e797e)
+* UMX/UMXL	[paper](https://paperswithcode.com/paper/open-unmix-a-reference-implementation-for) [github](https://github.com/sigsep/open-unmix-pytorch), published at [joss](https://joss.theoj.org/papers/10.21105/joss.01667), 2 citations on google scolar
+* XUMX 		[paper](https://arxiv.org/abs/2010.04228) [github](https://github.com/asteroid-team/asteroid/tree/master/egs/musdb18/X-UMX), published at [IEEE18/ICASSP21](https://ieeexplore.ieee.org/abstract/document/9414044?casa_token=kYvsc0qH5c0AAAAA:Rn7zBhxns4RYsFWAtXlVLu0LhXwyIFPwLgotzaGYT_gGu4ZBzUucZBwrQmGM-YorAZRgucTQSmIgjQ), 2 citations on google scolar
+* Demucs 	[paper](https://hal.archives-ouvertes.fr/hal-02379796/document) [github](https://github.com/facebookresearch/demucs), published only on arxiv?!, 19 citations on google scolar
+* Spleeter 	[paper](http://archives.ismir.net/ismir2019/latebreaking/000036.pdf) [github](https://github.com/deezer/spleeter) [blog](https://deezer.io/releasing-spleeter-deezer-r-d-source-separation-engine-2b88985e797e), published at [joss](https://joss.theoj.org/papers/10.21105/joss.02154), 45 citations on google scolar 
 
 
 ## Metrics
@@ -31,10 +31,11 @@ All metrics are computed per source and then averaged. They are also averaged ov
 * What us ISR?
 * How are e_interf, e_noise and e_artif computed?!
 * How does the bad signal get such high sdr?
-
+* What are journals? What are conferences? What are preprints? This is confusing to me
 
 ### Datasets
 
 [source-sep](https://source-separation.github.io/tutorial/data/datasets.html)
 [sigsep](https://sigsep.github.io/datasets/)
+
 
