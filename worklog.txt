@@ -71,10 +71,12 @@
 | 79    |   1   | meeting                                                    |
 | 83    |   4   | make and debug double predict wrapper                      |
 | 85    |   2   | debug submission                                           |
-| 87    |   2   | look into demucs denoiser model                            |
-| 90    |   3   | make demucs run un slurm                                   |
+| 87    |   2   | look into demucs denoiser model     [22]                   |
+| 90    |   3   | make demucs training run on slurm                          |
 | 91    |   1   | debug submission again                                     |
 
+
+[22] https://github.com/facebookresearch/denoiser
 
 [1] https://towardsdatascience.com/i-built-a-music-sheet-transcriber-heres-how-74708fe7c04c
 [2] End-to-End Neural Optical Music Recognition of Monophonic Scores https://www.mdpi.com/2076-3417/8/4/606
