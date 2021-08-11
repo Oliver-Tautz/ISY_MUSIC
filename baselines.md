@@ -21,5 +21,5 @@ All metrics are computed per source and then averaged
 
 #### SDR
 
-$SDR_{source}=10log_{10}$
+<img src="https://render.githubusercontent.com/render/math?math=SDR_{source}=10log_10\frac{\sum_{n}(s_l(n)^2)+\sum_{n}(s_r(n)^2)}{\sum_{n}(s_l(n)-\hat{s}_l(n))^2+\sum_{n}(s_r(n)-\hat{s}_r(n))^2}">
 
