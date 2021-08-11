@@ -31,6 +31,7 @@ All metrics are computed per source and then averaged. They are also averaged ov
 * What us ISR?
 * How are e_interf, e_noise and e_artif computed?!
 * How does the bad signal get such high sdr?
+* how different are the measures? What can our model do?
 * What are journals? What are conferences? What are preprints? This is confusing to me
 
 ### Datasets
