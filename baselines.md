@@ -42,42 +42,42 @@ All metrics are computed per source and then averaged. They are also averaged ov
 ### Publishing opportunities 
 
 * JOSS: 
- * umx,spleeter was published here
- * we need to be open source
- * it needs to be "research apllicaple"?
- * we need to be a*main contributor of the software
- * "Your paper must not focus on new research results accomplished with the software." ...
- *  no deadline i think
- *  [details](https://joss.readthedocs.io/en/latest/submitting.html)
- * seems unlikely to get accepted
+    * umx,spleeter was published here
+    * we need to be open source
+    * it needs to be "research apllicaple"?
+    * we need to be a*main contributor of the software
+    * "Your paper must not focus on new research results accomplished with the software." ...
+    *  no deadline i think
+    *  [details](https://joss.readthedocs.io/en/latest/submitting.html)
+    * seems unlikely to get accepted
 
 * ICASSP 22:
- * XUMX was published here 
- * paper submission deadline is **01.10**
- * some deadline already passed, dont know if important
- * [details](https://2022.ieeeicassp.org/call_for_papers.php)
- * this seems like a good possibility
+    * XUMX was published here 
+    * paper submission deadline is **01.10**
+    * some deadline already passed, dont know if important
+    * [details](https://2022.ieeeicassp.org/call_for_papers.php)
+    * this seems like a good possibility
 
 * IEEE COGMI 21
- * paper citing xumx was published here
- * broader scope ("general ai")
- * deadline **30.09** for round 2, round 1 already finished. 
- * [details](http://www.sis.pitt.edu/lersais/conference/cogmi/2021/calls.html)
+    * paper citing xumx was published here
+    * broader scope ("general ai")
+    * deadline **30.09** for round 2, round 1 already finished. 
+    * [details](http://www.sis.pitt.edu/lersais/conference/cogmi/2021/calls.html)
 
 * IEEE Signal Processing Society
- * jorunal, so no dealine i think?
- * seems to have pretty high standard
- * [special issue deadlines](https://signalprocessingsociety.org/publications-resources/special-issue-deadlines)
- * [details](https://signalprocessingsociety.org/publications-resources/submit-manuscript)
+    * journal, so no dealine i think?
+    * seems to have pretty high standard
+    * [special issue deadlines](https://signalprocessingsociety.org/publications-resources/special-issue-deadlines)
+    * [details](https://signalprocessingsociety.org/publications-resources/submit-manuscript)
 
 * RSP Science Hub
- * journal so no deadline i think?  
- * metapaper about spleeter was published here
- * Not sure if suitable
- * [details](https://www.rspsciencehub.com/journal/authors.note)
+    * journal so no deadline i think?  
+    * metapaper about spleeter was published here
+    * Not sure if suitable
+    * [details](https://www.rspsciencehub.com/journal/authors.note)
 
 
 * WASPAA 22
- * cant find infos/if it even exists
- * last time deadline was 28.04.21. So maybe next year the same?
- * [details](https://www.waspaa.com/call-for-papers/)
+    * cant find infos/if it even exists
+    * last time deadline was 28.04.21. So maybe next year the same?
+    * [details](https://www.waspaa.com/call-for-papers/)
