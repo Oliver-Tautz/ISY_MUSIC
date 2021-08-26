@@ -63,6 +63,8 @@ All metrics are computed per source and then averaged. They are also averaged ov
     * broader scope ("general ai")
     * deadline **30.09** for round 2, round 1 already finished. 
     * [details](http://www.sis.pitt.edu/lersais/conference/cogmi/2021/calls.html)
+    * explicitely call for "We invite original research papers that have not been previously published and are not currently under review for publication elsewhere."
+    * I cant find someone to email to, but i can open a submission.
 
 * IEEE Signal Processing Society
     * journal, so no dealine i think?
@@ -81,3 +83,17 @@ All metrics are computed per source and then averaged. They are also averaged ov
     * cant find infos/if it even exists
     * last time deadline was 28.04.21. So maybe next year the same?
     * [details](https://www.waspaa.com/call-for-papers/)
+
+
+## Baseline performance
+I think both run on cpu :(!
+
+* UMX:
+ * 4 models 34M each =  **132M**
+ * ~4.3s/s demixing on cpu
+ * ~?s/s demixing on gpu
+
+* Demucs
+ * 1 model **570M**
+ * ~2.3s/s 
+ * ~15.4s/s demixing on gpu
