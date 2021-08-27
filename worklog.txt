@@ -79,11 +79,13 @@
 * Week 31 (calendar-week)                                                    |
 | 93    |   1   | meeting                                                    |
 | 94.5  |   1.5 | compile info from papers etc.                              |
+* Week 32 (calendar-week)                                                    |
+| 95.5  |  1    | meeting                                                    |
 * Week 33 (calendar-week)                                                    |
-| 95.5  |   1   | search publishing venues                                   |
-| 96    |   0.5 | meeting                                                    |
+| 96.5  |   1   | search publishing venues                                   |
+| 97    |   0.5 | meeting                                                    |
 * Week 34 (calendar-week)                                                    |
-| 96    |   1   | predict umx/demucs on cluster gpu                          |
+| 98    |   1   | predict umx/demucs on cluster gpu                          |
 
 
 
