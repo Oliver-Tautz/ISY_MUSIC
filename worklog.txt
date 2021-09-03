@@ -86,7 +86,8 @@
 | 97    |   0.5 | meeting                                                    |
 * Week 34 (calendar-week)                                                    |
 | 98    |   1   | predict umx/demucs on cluster gpu                          |
-
+| 97    |   1   | meeting                                                    |
+| 100   |   3   | find sources and write intro/related work draft            |
 
 
 [22] https://github.com/facebookresearch/denoiser
