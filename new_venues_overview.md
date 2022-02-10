@@ -8,9 +8,9 @@
 
 Selected papers from CMLA 2022, after further revisions, will be published in the special issues of the following journals
 
-    Machine Learning and Applications: An International Journal (MLAIJ)
-    International Journal of Artificial Intelligence & Applications (IJAIA)
-    Advances in Vision Computing: An International Journal (AVC)
+Machine Learning and Applications: An International Journal (MLAIJ)
+International Journal of Artificial Intelligence & Applications (IJAIA)
+Advances in Vision Computing: An International Journal (AVC)
 
 :exclamation: **general neural network/machine learning**
 
