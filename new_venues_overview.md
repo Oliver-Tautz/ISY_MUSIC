@@ -1,7 +1,9 @@
 ## [CMLA 2022 : 4th International Conference on Machine Learning & Applications](https://www.cseit2022.org/cmla/papersubmission)
 
 * Submission Deadline 	Feb 12, 2022
+* 
 * Notification Due 	Apr 26, 2022
+* 
 * Final Version Due 	May 4, 2022 
 
 
@@ -19,7 +21,9 @@ Selected papers from CMLA 2022, after further revisions, will be published in th
 ## [AIAI 2022 : Artificial Intelligence Applications and Inovations](https://ifipaiai.org/2022/calls-for-papers/)
 
 Submission Deadline 	Feb 25, 2022
+
 Notification Due 	Mar 26, 2022
+
 Final Version Due 	Apr 22, 2022 
 
 Will release inproceedings journal (Springer)
@@ -49,7 +53,9 @@ Selected full papers based on scope and peer review results will get published i
 ## [ICANN 2022 : 31st International Conference on Artificial Neural Networks](https://e-nns.org/icann2022/submission/)
 
 Submission Deadline 	Apr 3, 2022
+
 Notification Due 	Jun 10, 2022
+
 Final Version Due 	Jun 30, 2022
 
 The ICANN 2022 proceedings will be published in the Springer Lecture Notes in Computer Science (LNCS) series, indexed as peer-reviewed publication in the Web of Science. 
