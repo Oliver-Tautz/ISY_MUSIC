@@ -15,6 +15,8 @@ Selected papers from CMLA 2022, after further revisions, will be published in th
 :exclamation: **general neural network/machine learning**
 
 * Want a word submission?!
+* 20 page limit
+* "At least one author of accepted papers is required to register at the full registration rate"
 
 ## [AIAI 2022 : Artificial Intelligence Applications and Inovations](https://ifipaiai.org/2022/calls-for-papers/)
 
@@ -29,6 +31,8 @@ Selected papers will be published in 4 special issues of high quality internatio
 :exclamation: **Mentions 'signal processing', which is good :)**
 
 * Have latex template
+* 10/12 page limit
+* "A paper may not be included in the proceedings if the requirements are not met, or if the registration fee is not received by the deadline of the submission (...)"
 
 ## [MLIS 2022 : 4th International Conference on Machine Learning and Intelligent Systems](http://www.machinelearningconf.org/SubmissionInstructions)
 
@@ -45,6 +49,8 @@ Selected full papers based on scope and peer review results will get published i
 :exclamation: **general NN/ML/AI**
 
 * Have latex template
+* 6 page limit
+* cant find anything about required registration
 
 ## [ICANN 2022 : 31st International Conference on Artificial Neural Networks](https://e-nns.org/icann2022/submission/)
 
@@ -59,3 +65,5 @@ The ICANN 2022 proceedings will be published in the Springer Lecture Notes in Co
 
 
 * Have Latex template
+* 12 page limit
+* Registration required
