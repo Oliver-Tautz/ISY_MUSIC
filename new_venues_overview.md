@@ -1,4 +1,4 @@
-#### CMLA 2022 : 4th International Conference on Machine Learning & Applications
+## CMLA 2022 : 4th International Conference on Machine Learning & Applications
 
 * Submission Deadline 	Feb 12, 2022
 * Notification Due 	Apr 26, 2022
@@ -16,7 +16,7 @@ Selected papers from CMLA 2022, after further revisions, will be published in th
 
 * Want a word submission?!
 
-#### AIAI 2022 : Artificial Intelligence Applications and Inovations
+## AIAI 2022 : Artificial Intelligence Applications and Inovations
 
 Submission Deadline 	Feb 25, 2022
 Notification Due 	Mar 26, 2022
@@ -30,7 +30,7 @@ Selected papers will be published in 4 special issues of high quality internatio
 
 * Have latex template
 
-#### MLIS 2022 : 4th International Conference on Machine Learning and Intelligent Systems
+## MLIS 2022 : 4th International Conference on Machine Learning and Intelligent Systems
 
 
 Submission Deadline 	Feb 28, 2022 
@@ -46,7 +46,7 @@ Selected full papers based on scope and peer review results will get published i
 
 * Have latex template
 
-#### ICANN 2022 : 31st International Conference on Artificial Neural Networks
+## ICANN 2022 : 31st International Conference on Artificial Neural Networks
 
 Submission Deadline 	Apr 3, 2022
 Notification Due 	Jun 10, 2022
