@@ -52,11 +52,10 @@ Submission Deadline 	Apr 3, 2022
 Notification Due 	Jun 10, 2022
 Final Version Due 	Jun 30, 2022
 
+The ICANN 2022 proceedings will be published in the Springer Lecture Notes in Computer Science (LNCS) series, indexed as peer-reviewed publication in the Web of Science. 
 
 
 :exclamation: **general NN/ML/AI but 'brain inspired?!**
-
-The ICANN 2022 proceedings will be published in the Springer Lecture Notes in Computer Science (LNCS) series, indexed as peer-reviewed publication in the Web of Science. 
 
 
 * Have Latex template
